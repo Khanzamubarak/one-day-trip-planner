@@ -59,7 +59,7 @@ $result = $conn->query($sql);
                     <thead class="table-dark">
                         <tr>
                             <th>ID</th>
-                            <th>photo</th>
+                            <th>Image</th>
                             <th>Name</th>
                             <th>Category</th>
                             <th>Distance</th>
